@@ -1,2 +1,2 @@
 # java_Basics
-Small Java programs
+Small Java programs & snippets
